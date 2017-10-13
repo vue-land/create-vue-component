@@ -45,6 +45,9 @@ module.exports = {
       pascalCasedComponentName: pascalCase(componentName)
     }
   },
+  move: {
+    gitignore: '.gitignore'
+  },
   post({ yarnInstall, gitInit, chalk, pm, isNewFolder, folderName }) {
     gitInit()
 
