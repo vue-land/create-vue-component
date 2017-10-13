@@ -13,7 +13,7 @@ Another package `create-vue-component` on npm does not belong to us.
 
 ## Usage
 
-```js
+```bash
 create-vue-component vue-xxx
 # or type less
 cvc vue-xxx
