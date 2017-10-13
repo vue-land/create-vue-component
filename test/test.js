@@ -8,6 +8,7 @@ test('defaults', async t => {
   const stream = await sao.mockPrompt(template, {
     // To make local and CI generate same result
     // We need to use fake data for these fields
+    author: 'fake-name',
     gitUser: 'fake-name',
     email: 'fake-email',
     description: 'lol'
