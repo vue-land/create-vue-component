@@ -1,7 +1,7 @@
 
 # create-vue-component
 
-[![NPM version](https://img.shields.io/npm/v/create-vue-component.svg?style=flat)](https://npmjs.com/package/create-vue-component) [![NPM downloads](https://img.shields.io/npm/dm/create-vue-component.svg?style=flat)](https://npmjs.com/package/create-vue-component) [![CircleCI](https://circleci.com/gh/egoist/create-vue-component/tree/master.svg?style=shield)](https://circleci.com/gh/egoist/create-vue-component/tree/master)  [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate) [![chat](https://img.shields.io/badge/chat-on%20discord-7289DA.svg?style=flat)](https://chat.egoist.moe)
+[![NPM version](https://img.shields.io/npm/v/create-vue-component.svg?style=flat)](https://npmjs.com/package/create-vue-component) [![NPM downloads](https://img.shields.io/npm/dm/create-vue-component.svg?style=flat)](https://npmjs.com/package/create-vue-component) [![CircleCI](https://circleci.com/gh/vue-land/create-vue-component/tree/master.svg?style=shield)](https://circleci.com/gh/vue-land/create-vue-component/tree/master)  [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate) [![chat](https://img.shields.io/badge/chat-on%20discord-7289DA.svg?style=flat)](https://chat.egoist.moe)
 
 ## Install
 
@@ -51,6 +51,6 @@ You won't believe how clean the folder struture of generated project is (no conf
 ## Author
 
 **create-vue-component** © [EGOIST](https://github.com/egoist), Released under the [MIT](./LICENSE) License.<br>
-Authored and maintained by EGOIST with help from contributors ([list](https://github.com/egoist/create-vue-component/contributors)).
+Authored and maintained by EGOIST with help from contributors ([list](https://github.com/vue-land/create-vue-component/contributors)).
 
 > [github.com/egoist](https://github.com/egoist) · GitHub [@EGOIST](https://github.com/egoist) · Twitter [@_egoistlily](https://twitter.com/_egoistlily)

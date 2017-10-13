@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Create Vue component in 30 seconds.",
   "repository": {
-    "url": "egoist/create-vue-component",
+    "url": "vue-land/create-vue-component",
     "type": "git"
   },
   "bin": {
