@@ -6,8 +6,10 @@
 ## Install
 
 ```bash
-yarn global add create-vue-component
+yarn global add cvc
 ```
+
+Another package `create-vue-component` on npm does not belong to us.
 
 ## Usage
 
