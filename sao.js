@@ -57,13 +57,12 @@ module.exports = {
     }
 
     console.log()
-    console.log(chalk.bold(`  To get started:\n`))
+    console.log(chalk.bold(`  To run demo:\n`))
     cd()
-    console.log(`    ${chalk.cyan(pm)} run dev\n`)
-    console.log(chalk.bold(`  To build for production:\n`))
+    console.log(`    ${chalk.cyan(pm)} run example\n`)
+    console.log(chalk.bold(`  To build the component:\n`))
     cd()
     console.log(`    ${chalk.cyan(pm)} run build`)
-    console.log(`    ${chalk.cyan(pm)} start`)
     console.log()
   }
 }
