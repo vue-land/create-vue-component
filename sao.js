@@ -46,7 +46,10 @@ module.exports = {
     }
   },
   move: {
-    gitignore: '.gitignore'
+    gitignore: '.gitignore',
+    // @see https://github.com/vue-land/create-vue-component/issues/1
+    '_package.json': 'package.json',
+    editorconfig: '.editorconfig'
   },
   post({ yarnInstall, gitInit, chalk, pm, isNewFolder, folderName }) {
     gitInit()
