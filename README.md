@@ -41,6 +41,10 @@ You won't believe how clean the folder struture of generated project is (no conf
 - `yarn build`: Build your component (with [Bili](https://github.com/egoist/bili))
 - `yarn test`: Test your component (with [test-vue-app](https://github.com/vue-land/test-vue-app))
 
+### badges
+
+The generated `README.md` in your project contains the badges of `npm version`, `npm downloads` and `circleci status`.
+
 ## Contributing
 
 1. Fork it!
