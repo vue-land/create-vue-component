@@ -1,7 +1,7 @@
 
 # create-vue-component
 
-[![NPM version](https://img.shields.io/npm/v/create-vue-component.svg?style=flat)](https://npmjs.com/package/create-vue-component) [![NPM downloads](https://img.shields.io/npm/dm/cvc.svg?style=flat)](https://npmjs.com/package/cvc) [![CircleCI](https://circleci.com/gh/vue-land/create-vue-component/tree/master.svg?style=shield)](https://circleci.com/gh/vue-land/create-vue-component/tree/master)  [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate) [![chat](https://img.shields.io/badge/chat-on%20discord-7289DA.svg?style=flat)](https://chat.egoist.moe)
+[![NPM version](https://img.shields.io/npm/v/cvc.svg?style=flat)](https://npmjs.com/package/cvc) [![NPM downloads](https://img.shields.io/npm/dm/cvc.svg?style=flat)](https://npmjs.com/package/cvc) [![CircleCI](https://circleci.com/gh/vue-land/create-vue-component/tree/master.svg?style=shield)](https://circleci.com/gh/vue-land/create-vue-component/tree/master)  [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate) [![chat](https://img.shields.io/badge/chat-on%20discord-7289DA.svg?style=flat)](https://chat.egoist.moe)
 
 ## Install
 
