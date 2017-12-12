@@ -16,5 +16,6 @@ test('defaults', async t => {
   t.snapshot(stream.meta.merged, 'template data')
   t.snapshot(stream.fileContents('README.md'), 'readme')
   t.snapshot(stream.fileContents('package.json'), 'package.json')
+  t.snapshot(stream.fileContents('circle.yml'), 'circle.yml')
   t.snapshot(stream.fileList, 'files')
 })
