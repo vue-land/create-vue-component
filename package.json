@@ -1,6 +1,6 @@
 {
   "name": "cvc",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Create Vue component in 30 seconds.",
   "repository": {
     "url": "vue-land/create-vue-component",
