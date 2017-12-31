@@ -34,7 +34,7 @@
     "poi": "^9.3.10",
     "bili": "^1.3.3",
     "tyu": "^1.0.0",
-    "vue-test-utils": "^1.0.0-beta.2"<% if (rollupPluginVue) { %>,
+    "vue-test-utils": "^1.0.0-beta.9"<% if (rollupPluginVue) { %>,
     "rollup-plugin-vue": "^2.5.2"<% } %>
   }
 }
