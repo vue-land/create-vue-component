@@ -17,6 +17,10 @@ module.exports = {
       message: 'Type the component name in kebab-case',
       default: 'foo-bar'
     },
+    rollupPluginVue: {
+      message: 'Use rollup-plugin-vue to bundle .vue file',
+      type: 'confirm'
+    },
     author: {
       message: 'Type your name',
       default: ':gitUser:',
