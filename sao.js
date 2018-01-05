@@ -21,6 +21,10 @@ module.exports = {
       message: 'Use rollup-plugin-vue to bundle .vue file',
       type: 'confirm'
     },
+    eslintPluginVue: {
+      message: 'Use eslint-plugin-vue to lint files',
+      type: 'confirm'
+    },
     author: {
       message: 'Type your name',
       default: ':gitUser:',
