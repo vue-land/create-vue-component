@@ -39,7 +39,8 @@ You won't believe how clean the folder struture of generated project is (no conf
 - `yarn example`: Run the demo for your component (with [Poi](https://poi.js.org))
 - `yarn example:build`: Build the demo for your component (with [Poi](https://poi.js.org))
 - `yarn build`: Build your component (with [Bili](https://github.com/egoist/bili))
-- `yarn test`: Test your component (with [test-vue-app](https://github.com/vue-land/test-vue-app))
+- `yarn test`: Lint and test your component (with [Tyu](https://github.com/egoist/tyu))
+- `yarn lint`: Lint only.
 
 ### badges
 
