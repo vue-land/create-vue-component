@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <<%= componentName %>></<%= componentName %>>
+    <<%= componentName %> />
   </div>
 </template>
 
