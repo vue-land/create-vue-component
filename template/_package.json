@@ -33,7 +33,6 @@
   }<% if (eslintPluginVue) { %>,
   "eslintConfig": {
     "extends": [
-      "eslint:recommended",
       "plugin:vue/recommended"
     ]
   }<% } %>,
